@@ -1,6 +1,8 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 .container {
-    @apply max-w-7xl;
+    @apply max-w-360;
     @apply m-auto;
 }

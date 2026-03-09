@@ -1,0 +1,28 @@
+export const translations = {
+  en: {
+    navLi: ["Home", "Category", "Shop", "Blog", "Page"],
+    Theme: "Theme",
+    HeroH1: "All You Need For Perfect",
+    HeroH1Span: "Breakfast",
+    HeroP: "Lorem Ipsum is simply dummy text of the printing and typesettingindustry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+    HeroBtn1: "BUY NOW",
+    HeroBtn2: "SEE MORE",
+    HeroBottom: ["Fruits", "Vegetables", "Semi-finished", "Bakery", "Meat", "Pasta", "Sweets"],
+    NewProduct: "-- New-Products --",
+    New: ["Fresh Vegetable", "bakery bread viennoiserie...", "ICE cream cones sundae...", "Papaya seed auglis fruit..."],
+    NewBtn: "Order Now",
+  },
+  uz: {
+    navLi: ["Bosh sahifa", "Kategoriya", "Do‘kon", "Blog", "Sahifa"],
+    Theme: "Rang",
+    HeroH1: "Mukammal nonushta uchun hamma",
+    HeroH1Span: "narsa",
+    HeroP: "Lorem Ipsum oddiygina bosma va matn terishning soxta matnidirsanoat. Lorem Ipsum sanoatning standart qo'g'irchoq matni bo'lgan1500 yildan beri",
+    HeroBtn1: "SOTIB OLISH",
+    HeroBtn2: "KO'RISH",
+    HeroBottom: ["Mevalar", "Sabzavotlar", "Baliq", "Non", "Go'sht", "Pasta", "Shirinliklar"],
+    NewProduct: "-- Yangi-Mahsulotlar --",
+    New: ["Yangi sabzavot", "novvoyxona non viennoiserie...", "Muzqaymoq konilari...", "Papayya urug'i auglis mevasi..."],
+    NewBtn: "Buyurtma qilish",
+  },
+};

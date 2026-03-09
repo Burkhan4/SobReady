@@ -23,7 +23,7 @@ function Hero({ lang }) {
               {t.HeroBtn1}
             </button>
             <button className="mr-30.5 w-32.5 h-12.5 border border-[#E21A43] cursor-pointer text-[#E21A43] duration-200 font-semibold hover:bg-[#b4002460]">
-              {t.HeroBtn1}
+              {t.HeroBtn2}
             </button>
             <img className="mt-6.5" src="/svg/heroStar.svg" alt="" />
           </div>

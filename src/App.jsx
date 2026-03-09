@@ -3,6 +3,8 @@ import Navbar from "./Navbar";
 import { translations } from "./translations";
 import Hero from "./Hero";
 import New from "./New";
+import Service from "./Service";
+import Selling from "./Selling";
 
 const App = () => {
   const [lang, setLang] = useState("en");
@@ -29,6 +31,8 @@ const App = () => {
       <Navbar onToggleTheme={toggleTheme} setLang={setLang} lang={lang}/>
       <Hero lang={lang} />
       <New lang={lang} />
+      <Service lang={lang} />
+      <Selling lang={lang} />
     </div>
   );
 };

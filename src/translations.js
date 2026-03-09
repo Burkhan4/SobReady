@@ -11,6 +11,9 @@ export const translations = {
     NewProduct: "-- New-Products --",
     New: ["Fresh Vegetable", "bakery bread viennoiserie...", "ICE cream cones sundae...", "Papaya seed auglis fruit..."],
     NewBtn: "Order Now",
+    SpecialH2: "Our Spiceal Service Fresh Beef",
+    SellingH2: "-- Best Selling Product --",
+    SellingList: ["Fruits", "Vegetable", "Meal", "Milk", "Cakes", "Drinks"],
   },
   uz: {
     navLi: ["Bosh sahifa", "Kategoriya", "Do‘kon", "Blog", "Sahifa"],
@@ -24,5 +27,8 @@ export const translations = {
     NewProduct: "-- Yangi-Mahsulotlar --",
     New: ["Yangi sabzavot", "novvoyxona non viennoiserie...", "Muzqaymoq konilari...", "Papayya urug'i auglis mevasi..."],
     NewBtn: "Buyurtma qilish",
+    SpecialH2: "Ziravorlar xizmati yangi go'sht",
+    SellingH2: "-- Eng ko'p sotiladigan mahsulot --",
+    SellingList: ["Mevalar", "Sabzavotlar", "Go'sht", "Sut", "Pishiriq", "Ichimliklar"],
   },
 };
